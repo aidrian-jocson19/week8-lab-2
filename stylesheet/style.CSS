@@ -1,0 +1,90 @@
+html{
+    background-color: #6F4E37;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: #FAFAFA;
+}
+
+body{
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+p{
+    text-align: center;
+    line-height: 1.6;
+}
+
+h1{
+    background-color: #FDFFF5;
+    color: #6F4E37;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px #000000;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+hr{
+    border: none;
+    border-bottom: 2px solid #C4A484;
+    margin: 20px 0;
+}
+
+h2{
+    color: #C4A484;
+    font-size: 26px;
+    font-weight: bold;
+    border-bottom: 2px solid #967969;
+    padding-bottom: 5px;
+}
+
+ul{
+    line-height: 1.8;
+}
+
+img{
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.5);
+}
+
+table{
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 80%;
+    background-color: #FDFFF5;
+    color: #333;
+}
+
+th, td{
+    border: 1px solid #967969;
+    padding: 10px;
+    text-align: center;
+}
+
+th{
+    background-color: #C4A484;
+    color: #fff;
+}
+
+form{
+    background-color: #FDFFF5;
+    color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    width: 60%;
+    margin: 20px auto;
+}
+
+input{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+}
